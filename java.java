@@ -7,7 +7,8 @@ class java {
           rev = rev+i;  
         }
         System.out.println(rev);
-        System.out.print("please please help helpppppp")
+        System.out.print("please please help helpppppp");
+         System.out.print("please please help helpppppp")
         }
     }
     
